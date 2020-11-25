@@ -1,6 +1,6 @@
 {
   "name": "x8er-clevertec",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
@@ -18,11 +18,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "go": "npm run clear && webpack && node ./build/server.js",
+    "start": "npm run clear && webpack && node ./build/server.js",
     "clear": "rimraf ./build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
