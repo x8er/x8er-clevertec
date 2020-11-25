@@ -11,11 +11,11 @@ In the project directory, you can run:
 Builds the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will not reload if you make edits.\
+The page will not reload if you make edits.
 
 ### `npm run clear`
 
-Сlears the "build" folder.\
+Сlears the "build" folder.
 
 ### `npm run eject`
 
