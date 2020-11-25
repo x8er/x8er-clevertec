@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 600px;
+}
+
+.row > .item {
+  margin-left: 20px;
+}
